@@ -14,4 +14,4 @@ We use this space to maintain permanent records of:
 * Major policy announcements affecting community tiers.
 * Open-source program definitions.
 
-For more information about the platform, visit [certdirectory.io](https://certdirectory.io).
+For more information about the platform, visit [credentials.certdirectory.io](https://credentials.certdirectory.io).
